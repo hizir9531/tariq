@@ -47,3 +47,9 @@
     git checkout (hash) 
 ## 12.Перемещение в ветку master
     git checkout master
+
+# seminar2
+
+## ветвления
+
+ветвления в git нужны для ...
