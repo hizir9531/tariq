@@ -81,4 +81,9 @@
 
     git log --oneline --all --graph
 
-    
+## операции с ветками
+
+### слияние указанной ветки в текущую:
+
+    git merge (branchname)
+
