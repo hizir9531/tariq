@@ -63,3 +63,11 @@
 ### перейти в указанную ветку:
 
     git branch <branchname>
+
+### используется для удаления веток:
+
+    git branch -d (branchname)
+
+### комманда для принудительного удаления ветки:
+    git branch -D (branchname)
+
