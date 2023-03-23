@@ -103,3 +103,15 @@
 
     git chow <tag>
 
+### отложенные теги 
+### комманда присвоения тега коммиту:
+    
+    git tag -a <tag> (hash)
+
+### отправляет теги на удаленные сервера:
+
+    git puch origin <tagname>
+
+### удаление тега с удаленного сервера:
+
+    git push origin --delete <tagname>
